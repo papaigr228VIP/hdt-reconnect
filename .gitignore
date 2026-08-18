@@ -1,0 +1,7 @@
+**/bin/
+**/obj/
+recroll/Reference/
+artifact/
+.vs/
+*.user
+*.suo
